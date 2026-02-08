@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "513049094118",
+    "project_id": "untitled2-abfb5",
+    "storage_bucket": "untitled2-abfb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513049094118:android:d26328519c03f6a283d827",
+        "android_client_info": {
+          "package_name": "com.example.seivar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpot9CGej5cCFdNbiWLZ-FoZNecCqMXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513049094118:android:57a9b5c76f8cd4e983d827",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpot9CGej5cCFdNbiWLZ-FoZNecCqMXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
